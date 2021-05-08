@@ -1,0 +1,73 @@
+h1{
+    color: red;
+}
+h2{
+   color: red;
+}
+.header{
+   background-color: aqua; 
+   display : flex; 
+   justify-content: space-between;
+}
+.name{
+    border: solid;
+    margin-left:30px;
+    padding:5px;
+}
+.name1{
+    margin-right:450px;
+    padding: 5px;
+}
+.name2{
+    margin-right:450px;
+    padding: 5px;
+}
+.name3{
+    margin-right:550px;
+    padding: 5px;
+}
+.name4{
+    margin-right:450px;
+    padding: 5px;
+}
+.name5{
+    margin-right:550px;
+    padding: 5px;
+}
+.project1{
+background-color: rgb(0, 255, 34);
+display: flex;
+justify-content: space-evenly;
+text-align: center;
+}
+.project2{
+background-color: rgb(2, 53, 9);
+display: flex;
+justify-content: space-evenly;
+text-align: center;
+}
+.project3{
+background-color: rgb(0, 255, 34);
+display: flex;
+justify-content: space-evenly;
+text-align: center;
+}
+.project4{
+background-color: rgb(2, 77, 12);
+display:flex;
+justify-content: space-evenly;
+text-align: center;
+}
+.project5{
+background-color: rgb(0, 255, 34);
+display: flex;
+justify-content: space-evenly;
+text-align: center;
+}
+.social{
+background-color: rgb(3, 73, 12);
+display: flex;
+}
+body{
+    background-color: rgb(255, 0, 0);
+}
